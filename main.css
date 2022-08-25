@@ -1,0 +1,86 @@
+*{
+    background-color: #FAFAFA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbarlogo{
+    margin-left: 192px;
+}
+.navbar-icon{
+    justify-content: end;
+}
+
+.searchbtn{
+    margin-left: 150px;
+}
+
+.card{
+    border-radius: 8px;
+}
+
+
+
+.story-photo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid red;
+    
+    
+    
+}
+
+.story-name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: black;
+    background-color: white;
+}
+
+.card{
+    width: 470px;
+    
+}
+
+.post-profile-img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+
+.post-username{
+    font-size:14px;
+    margin-right: 300px;
+    color: black;
+}
+
+.post-username-item{
+    display: inline-block;
+    /* margin-left: 310px; */
+
+    
+}
+
+.bookmark{
+    margin-left: 225px;
+}
+
+.share{
+    margin-left: 260px ;
+    color: #C2DFFC;
+    opacity: 10;
+}
+
+
+
+.pass{
+    margin-left: 187px;
+    font-size: small;
+}
+
+.footer .rightpanellinks{
+    text-decoration: none;
+    
+}
